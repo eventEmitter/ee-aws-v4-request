@@ -1,0 +1,19 @@
+{
+      "name":           "ee-aws-v4-request"
+    , "description":    "class for making requests to some of the aws services"
+    , "version":        "0.1.2"
+    , "homepage":       "https://github.com/eventEmitter/ee-aws-v4-request"
+    , "author":         "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
+    , "repository": {
+        "url":          "https://github.com/eventEmitter/ee-aws-v4-request"
+    }
+    , "engines": {
+        "node":         "*"
+    }
+    , "bugs": {
+        "url":          "https://github.com/eventEmitter/ee-aws-v4-request/issues"
+    }
+    , "dependencies": {}
+    , "devDependencies": {}
+    , "optionalDependencies": {}
+}
