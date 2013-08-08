@@ -1,24 +1,6 @@
 #ee-aws-v4-request
 
-node.js class for making requests to some of the aws services
-
-since the v4 signature works with the following services the request class should work too. 
-
-- Amazon CloudSearch
-- Amazon CloudWatch
-- Amazon DynamoDB ( tested )
-- Amazon Elastic Transcoder
-- Amazon Glacier
-- Amazon Redshift
-- Amazon Relational Database Service
-- Amazon Simple Queue Service
-- Auto Scaling
-- AWS CloudFormation
-- AWS Data Pipeline
-- AWS Elastic Beanstalk
-- AWS Identity and Access Management
-- AWS Security Token Service
-- Elastic Load Balancing
+node.js class for making requests to dynamodb
 
 # install
 
