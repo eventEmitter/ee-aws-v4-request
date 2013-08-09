@@ -1,7 +1,7 @@
 {
       "name":           "ee-aws-v4-request"
     , "description":    "class for making requests to some of the aws services"
-    , "version":        "0.1.7"
+    , "version":        "0.1.8"
     , "homepage":       "https://github.com/eventEmitter/ee-aws-v4-request"
     , "author":         "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
     , "repository": {
