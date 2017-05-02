@@ -1,5 +1,7 @@
 #ee-aws-v4-request
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-aws-v4-request.svg)](https://greenkeeper.io/)
+
 node.js class for making requests to dynamodb
 
 # install
